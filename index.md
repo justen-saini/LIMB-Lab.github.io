@@ -1,7 +1,7 @@
 ---
 ---
 
-# justen-saini's Website
+# LIMB Lab
 
 An engaging 1-5 sentence description of your lab.
 
