@@ -5,16 +5,26 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Principal Investigator
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: PhD" %}
+{% include list.html data="members" component="portrait" filters="role: Pi" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-graduation-cap" %}Master's
+# {% include icon.html icon="fa-solid fa-users" %}PhD students
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: PhD student" %}
+
+
+{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
+
+# {% include icon.html icon="fa-solid fa-graduation-cap" %}Masters students
 
 {% include list.html data="members" component="portrait" filters="role: Master's student" %}
