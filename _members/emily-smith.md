@@ -1,6 +1,6 @@
 ---
 name: Emily Smith
-image: images/photo.jpg
+image: images/emily_smith.jpg
 role: PhD student
 group: student
 links:
