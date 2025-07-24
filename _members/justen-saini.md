@@ -1,5 +1,5 @@
 ---
-name: Justin Saini
+name: Justen Saini
 image: images/Justen_Saini.jpg
 role: Master's student
 affiliation: University of Calgary
