@@ -79,5 +79,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="team"
   title="Our Team"
-  text= "We are comprised of people with backgrounds in health sciences, kinesiology, and engineering. Learn more about our current lab members.
+  text= "We are comprised of people with backgrounds in health sciences, kinesiology, and engineering. Learn more about our current lab members."
 %}
