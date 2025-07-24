@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: Pi" %}
+{% include list.html data="members" component="portrait" filter="role: Pi" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -19,7 +19,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: PhD student" %}
+{% include list.html data="members" component="portrait" filter="role: PhD student" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -27,4 +27,4 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Masters students
 
-{% include list.html data="members" component="portrait" filters="role: Master's student" %}
+{% include list.html data="members" component="portrait" filter="role: Master's student" %}
