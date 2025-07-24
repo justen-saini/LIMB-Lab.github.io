@@ -9,6 +9,12 @@ Dual fluoroscopy (DF) is an X-ray based non-invasive imaging system that can der
 
 {% include section.html %}
 
+## Mission Statement
+
+We aim to improve musculoskeletal health by using advanced medical imaging to better understand the biomechanics of joints and the progression of osteoarthritis.
+
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}
