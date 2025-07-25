@@ -14,14 +14,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-Robert Chauvet
-
+**Robert Chauvet** (McCaig Research day 2025)
 {% include figure.html image="images/Robert_poster.png" %}
 
 {% include section.html %}
 
-Justen Saini
-
+**Justen Saini** (McCaig Research day 2025)
 {% include figure.html image="images/Justen_poster.png" %}
 
 {% include section.html %}
