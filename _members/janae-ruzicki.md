@@ -1,8 +1,8 @@
 ---
 name: Janae Ruzicki
 image: 
-role: Lab Manager
-affiliation: Lab Manager
+role: Research Assistant
+affiliation: Research Assistant
 aliases:
   - J. Ruzicki
   - J Ruzicki
