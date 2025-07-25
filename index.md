@@ -19,7 +19,7 @@ We aim to improve musculoskeletal health by using advanced medical imaging to be
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on using advanced medical imaging to better understand joint biomechanics.
 
 {%
   include button.html
@@ -37,12 +37,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/DF_ankle.png"
   link="research"
   title="Our Research"
-  text= "Our research focuses on using advanced medical imaging to better understand joint biomechanics."
+  text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are always looking for pationate and enthusiatic undergraduate, graduate and post-doctoral fellows to join our lab. If you are interested in joining our team or would like to learn more send us an email.
 
 {%
   include button.html
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Reach out"
   flip=true
   style="bare"
-  text= "We are always looking for pationate and enthusiatic undergraduate, graduate and post-doctoral fellows to join our lab. If you are interested in joining our team or would like to learn more send us an email."
+  text=text
 %}
 
 {% capture text %}
