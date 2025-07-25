@@ -12,7 +12,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
 
 **Robert Chauvet** (McCaig Research day 2025)
 {% include figure.html image="images/Robert_poster.png" %}
@@ -24,6 +23,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
+{% comment %}
 ## All
 
 {% include search-box.html %}
@@ -31,3 +31,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+{% endcomment %}
