@@ -14,6 +14,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
+Robert Chauvet
+
 {% include figure.html image="images/Robert_poster.png" %}
 
 {% include section.html %}
