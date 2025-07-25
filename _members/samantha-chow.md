@@ -10,13 +10,7 @@ links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
 ---
-**Previous education:** 
-
 **Title/Current position:** 
 Summer Student
 
 **Pronouns:** She/Her/Hers 
-
-**Research:** 
-
-**Hobbies:**
