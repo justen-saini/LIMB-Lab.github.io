@@ -1,6 +1,6 @@
 ---
 name: Koren E. Roach
-image: images/picture.jpg
+image: images/Koren_Roach.jpg
 role: Principal Investigator
 affiliation: Principal Investigator
 aliases:
