@@ -5,6 +5,6 @@
 
   # justen-saini's Website
 
-  Visit **[justen-saini.github.io/LIMB-Lab.github.io](https://justen-saini.github.io/LIMB-Lab.github.io)** 🚀
+  Visit **[limb-laboratory.ca](http://limb-laboratory.ca)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
