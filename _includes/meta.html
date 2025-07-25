@@ -32,8 +32,8 @@
 
 {% assign description = description | xml_escape %}
 
-{% assign png = "images/LIMB_Black_NEW_NEW.png" | file_exists %}
-{% assign jpg = "images/LIMB_Black_NEW_NEW.jpg" | file_exists %}
+{% assign png = "images/LIMB_Black.png" | file_exists %}
+{% assign jpg = "images/LIMB_Black.jpg" | file_exists %}
 {% assign icon = png | default: jpg | relative_url %}
 
 {% assign jpg = "images/share.jpg" | file_exists %}
