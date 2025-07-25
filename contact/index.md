@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-To contact Dr. Roach, please reach out through the following email or phone number.
+<p style="text-align: center;">To contact Dr. Roach, please reach out through the following email or phone number.</p>
+
 {%
   include button.html
   type="email"
