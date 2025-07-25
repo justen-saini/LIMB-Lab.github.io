@@ -5,7 +5,19 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %} Team
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Principal Investigator
+{% include list.html data="members" component="portrait" filter="role == 'Principal Investigator'" %}
+
+## Lab Manager
+{% include list.html data="members" component="portrait" filter="role == 'Lab Manager'" %}
+
+## PhD Students
+{% include list.html data="members" component="portrait" filter="role == 'PhD Student'" %}
+
+## Masters Students
+{% include list.html data="members" component="portrait" filter="role == 'Masters Student'" %}
+
+## Summer Students
+{% include list.html data="members" component="portrait" filter="role == 'Summer Student'" %}
