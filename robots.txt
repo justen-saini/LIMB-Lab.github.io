@@ -1,1 +1,1 @@
-Sitemap: http://limb-laboratory.ca/sitemap.xml
+Sitemap: https://limb-laboratory.ca/sitemap.xml
