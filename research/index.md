@@ -20,6 +20,12 @@ Robert Chauvet
 
 {% include section.html %}
 
+Justen Saini
+
+{% include figure.html image="images/Justen_poster.png" %}
+
+{% include section.html %}
+
 ## All
 
 {% include search-box.html %}
