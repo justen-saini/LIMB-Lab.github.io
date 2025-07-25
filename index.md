@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/LIMB_Logo_Full.jpg"
   link="contact"
   title="Reach out"
   flip=true
