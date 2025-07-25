@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Have a look at what our lab has been working on!
+<p style="text-align: center;">Take a look at what our lab is currently working on!</p>
 
 {% include section.html %}
 
