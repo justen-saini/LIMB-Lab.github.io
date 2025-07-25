@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="contact"
-  title="Interested in participating?"
+  title="Reach out"
   flip=true
   style="bare"
   text=text
