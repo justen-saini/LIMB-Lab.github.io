@@ -1,11 +1,17 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+name: Emily Smith
+image: images/emily_smith.jpg
+role: PhD student
+affiliation: University of Calgary
+aliases:
+  - E. Smith
+  - E Smith
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  home-page: https://janesmith.com
+  orcid: 0000-0001-8713-9213
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Previous education: BSc Honours in Biomechanics (UCalgary - 2022), MSc in Biomedical Engineering (UCalgary - 2024)
+Title/Current position: PhD Student
+Pronouns: She/Her/Hers
+Research: Developing a Discrete Element Analysis Model to Evaluate Joint Kinetics in the Ankle and Foot in-vivo
+Hobbies: Field hockey, ringette, playing outside and walking my dog
