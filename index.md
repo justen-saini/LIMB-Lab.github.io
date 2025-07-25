@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Lab_Photo.jpg"
   link="team"
   title="Our Team"
   text= "We are comprised of people with backgrounds in health sciences, kinesiology, and engineering. Learn more about our current lab members."
