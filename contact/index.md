@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-To contact Dr. Roach, please reach out through the following email.
+To contact Dr. Roach, please reach out through the following email or phone number.
 {%
   include button.html
   type="email"
-  text="Koren.roach@ucalgary.ca"
+  text="koren.roach@ucalgary.ca"
   link="koren.roach@ucalgary.ca"
 %}
 {%
