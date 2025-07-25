@@ -34,10 +34,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/DF_ankle.png"
   link="research"
   title="Our Research"
-  text=text
+  text= "Our research focuses on using advanced medical imaging to better understand joint biomechanics."
 %}
 
 {% capture text %}
