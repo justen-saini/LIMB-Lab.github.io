@@ -1,1 +1,1 @@
-Sitemap: https://justen-saini.github.io/LIMB-Lab.github.io/sitemap.xml
+Sitemap: http://limb-laboratory.ca/sitemap.xml
