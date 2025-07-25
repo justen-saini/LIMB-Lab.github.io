@@ -1,9 +1,9 @@
 {% assign image = page.header | default: site.header %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
-{% assign svg = "images/LIMB_Black.svg" | file_exists %}
-{% assign png = "images/LIMB_Black.png" | file_exists %}
-{% assign jpg = "images/LIMB_Black.jpg" | file_exists %}
+{% assign svg = "images/LIMB_Black_NEW.svg" | file_exists %}
+{% assign png = "images/LIMB_Black_NEW.png" | file_exists %}
+{% assign jpg = "images/LIMB_Black_NEW.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
 <header
