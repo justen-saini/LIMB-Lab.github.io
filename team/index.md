@@ -10,8 +10,8 @@ nav:
 ## Principal Investigator
 {% include list.html data="members" component="portrait" filter="role == 'Principal Investigator'" %}
 
-## Lab Manager
-{% include list.html data="members" component="portrait" filter="role == 'Lab Manager'" %}
+## Research Assistant
+{% include list.html data="members" component="portrait" filter="role == 'Research Assistant'" %}
 
 ## PhD Students
 {% include list.html data="members" component="portrait" filter="role == 'PhD Student'" %}
