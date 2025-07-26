@@ -21,4 +21,3 @@ links:
 
 **Research:** 
 Dr. Roach's research leverages multimodal analyses that investigate how joint biomechanics, quantitative measures of joint health (via MRI), physical activity, and demographics, particularly sex differences, contribute to the onset and progression of musculoskeletal diseases, such as osteoarthritis. My long-term research goal is to identify biomechanical and/or image-based biomarkers that predict patients who are at a higher risk for osteoarthritis at a time point when non-surgical, interventional treatments are most likely to effectively prevent progression of the disease.
-
