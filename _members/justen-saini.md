@@ -7,7 +7,7 @@ aliases:
   - J. Saini
   - J Saini
 links:
-  home-page: https://janesmith.com
+<!--  home-page: https://janesmith.com -->
 <!--  orcid: 0000-0001-8713-9213 -->
 ---
 **Previous Education:** B.Sc. in Mechanical Engineering and a Certificate in Computing from the University of Saskatchewan (Graduated Spring 2023)  
