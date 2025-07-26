@@ -7,6 +7,6 @@ aliases:
   - R. Dunn
   - R Dunn
 links:
-<!-- home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213 -->
+  home-page: https://janesmith.com
+<!--  orcid: 0000-0001-8713-9213 -->
 ---
