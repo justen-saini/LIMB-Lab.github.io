@@ -8,7 +8,7 @@ aliases:
   - E Smith
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+<!--  orcid: 0000-0001-8713-9213 -->
 ---
 **Previous education:** 
 BSc Honours in Biomechanics (UCalgary - 2022), MSc in Biomedical Engineering (UCalgary - 2024)  
