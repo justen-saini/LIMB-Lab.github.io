@@ -8,7 +8,7 @@ aliases:
   - R Chauvet
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+<!--  orcid: 0000-0001-8713-9213 -->
 ---
 **Previous education:** 
 B.Sc. in Mechanical Engineering  from the University of Alberta (Graduated Spring 2021) MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  
