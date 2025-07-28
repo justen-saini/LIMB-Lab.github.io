@@ -3,9 +3,9 @@
 
 # Welcome to the LIMB Lab!
 
-The Locomotion, Imaging, Musculoskeletal and Biomechanics Lab is run by Dr. Koren Roach. Our research involves investigating how joint biomechanics, physical activity, and kinematics contribute to the onset and progression of musculoskeletal diseases such as osteoarthritis.
-A key proponent of Dr. Roach's lab is the state-of-the-art dual fluoroscopy lab within McCaig Institute. Dual fluoroscopy is an X-ray based imaging system that is used to derive dynamic bony translations and rotations. The system consists of two high-speed video camera, two image intensifiers, and two X-ray sources. (Think of it like an X-ray video system :) )
-Dual fluoroscopy (DF) is an X-ray based non-invasive imaging system that can derive dynamic bony translations and rotations. The system consists of two high-speed video cameras, two image intensifiers, and two X-ray sources.
+The Locomotion and Imaging for Musculoskeletal Biomechanics Lab is located at the University of Calgary's McCaig Institute, run by Dr. Koren Roach. Our research involves investigating how joint biomechanics, physical activity, and kinematics contribute to the onset and progression of musculoskeletal diseases such as osteoarthritis.
+
+A key proponent of the LIMB Laboratory is the state-of-the-art dual fluoroscopy lab. This system consists of two high-speed video camera, two image intensifiers, and two X-ray sources. This imaging system allows for a precise assessment of dynamic bone translations and rotations. 
 
 {% include section.html %}
 
