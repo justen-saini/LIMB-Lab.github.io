@@ -12,18 +12,18 @@ nav:
 {% include section.html %}
 
 ## Investigating the effects of ankle osteoarthirtis treatments on biomechanics
-**Robert Chauvet** (McCaig Research day 2025)
+**Robert Chauvet** (McCaig Research Day, 2025)
 {% include figure.html image="images/Robert_poster.png" %}
 
 {% include section.html %}
 
 ## Investigating load bearing carpal biomechanics
-**Justen Saini** (McCaig Research day 2025)
+**Justen Saini** (McCaig Research Day, 2025)
 {% include figure.html image="images/Justen_poster.png" %}
 
 {% include section.html %}
 
-## Investigating the biomechanics of ankle foot orthoses
+## Investigating the biomechanics of ankle-foot orthoses
 **Emily Smith**
 
 {% comment %}
