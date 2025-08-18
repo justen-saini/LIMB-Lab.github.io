@@ -21,3 +21,6 @@ nav:
 
 ## Summer Students
 {% include list.html data="members" component="portrait" filter="role == 'Summer Student'" %}
+
+## Lab Alumni
+{% include list.html data="members" component="portrait" filter="role == 'Lab Alumni'" %}
