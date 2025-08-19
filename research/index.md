@@ -13,13 +13,13 @@ nav:
 
 ## Investigating the effects of ankle osteoarthirtis treatments on biomechanics
 **Robert Chauvet** (McCaig Research Day, 2025)
-{% include figure.html image="images/Robert_poster.png" %}
+{% include figure.html image="images/research_photos/Robert_poster.png" %}
 
 {% include section.html %}
 
 ## Investigating load bearing carpal biomechanics
 **Justen Saini** (McCaig Research Day, 2025)
-{% include figure.html image="images/Justen_poster.png" %}
+{% include figure.html image="images/research_photos/Justen_poster.png" %}
 
 {% include section.html %}
 

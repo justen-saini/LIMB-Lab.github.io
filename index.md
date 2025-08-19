@@ -34,7 +34,7 @@ Our research focuses on using advanced medical imaging to better understand join
 
 {%
   include feature.html
-  image="images/DF_ankle.png"
+  image="images/research_photos/DF_ankle.png"
   link="research"
   title="Our Research"
   text=text
@@ -57,7 +57,7 @@ We are always looking for pationate and enthusiatic undergraduate, graduate and 
 
 {%
   include feature.html
-  image="images/LIMB_Logo_Full.jpg"
+  image="images/logos/LIMB_Logo_Full.jpg"
   link="contact"
   title="Reach out"
   flip=true
@@ -82,7 +82,7 @@ We are comprised of people with backgrounds in health sciences, kinesiology, and
 
 {%
   include feature.html
-  image="images/Lab_Photo.jpg"
+  image="images/team_photos/Lab_Photo.jpg"
   link="team"
   title="Our Team"
   text= text
