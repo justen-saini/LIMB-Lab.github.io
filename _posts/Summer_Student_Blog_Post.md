@@ -12,5 +12,5 @@ We want to extend the heartiest of congratulations to our three summer students 
 ---
 image: images/Sam_Prez.jpg
 image: images/Riley_Prez.jpg
-image: images/Riley_Prez.jpg
+image: images/Ben_Prez.jpg
 ---
