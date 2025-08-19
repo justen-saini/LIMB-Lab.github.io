@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: LIMB Lab
 subtitle: Locomotion & Imaging for Musculoskeletal Biomechanics
-description: An engaging 1-5 sentence description of your lab.
-header: images/DF_background.jpg
-footer: images/DF_background.jpg
+description: Welcome to the LIMB Lab! We specialize in investigations of how joint biomechanics, physical activity, and kinematics contribute to the onset and progression of musculoskeletal diseases such as osteoarthritis.
+header: images/logos/DF_background.jpg
+footer: images/logos/DF_background.jpg
 proofer: false
 
 # site social media and other links
