@@ -1,6 +1,6 @@
 ---
 name: Justen Saini
-image: images/Justen_Saini.jpg
+image: images/team_photos/Justen_Saini.jpg
 role: Masters Student
 affiliation: Masters Student
 aliases:

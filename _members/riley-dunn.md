@@ -1,6 +1,6 @@
 ---
 name: Riley Dunn
-image: images/riley_dunn.jpg
+image: images/team_photos/riley_dunn.jpg
 role: Summer Student
 affiliation: Summer Student
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: Robert Chauvet
-image: images/Robert_Chauvet.png
+image: images/team_photos/Robert_Chauvet.png
 role: PhD Student
 affiliation: PhD Student
 aliases:
