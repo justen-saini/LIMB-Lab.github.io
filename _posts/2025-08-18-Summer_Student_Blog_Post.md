@@ -1,6 +1,6 @@
 ---
 title: Congratulations to our summer students in the LIMB Lab!
-author: LIMB lab
+author: LIMB Lab
 tags:
   - Summer Students
   - Biomechanics
