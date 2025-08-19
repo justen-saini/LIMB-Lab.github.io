@@ -12,6 +12,6 @@ We want to extend the heartiest of congratulations to our three summer students 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/Sam_Prez.jpeg" alt="Sam" style="width: 30%;" />
   <img src="/images/Riley_Prez.jpeg" alt="Riley" style="width: 30%;" />
-  <img src="/images/Ben)Prez.jpeg" alt="Ben" style="width: 30%;" />
+  <img src="/images/Ben_Prez.jpeg" alt="Ben" style="width: 30%;" />
 </div>
 
