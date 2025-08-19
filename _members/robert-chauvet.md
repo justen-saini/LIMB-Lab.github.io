@@ -20,4 +20,4 @@ B.Sc. in Mechanical Engineering  from the University of Alberta (Graduated Sprin
 
 **Research:** Robert’s work aims to explore the kinematic effects of end-stage ankle osteoarthritis surgeries. This work is conducted using the dual fluoroscopy system and will look at compensatory motion in adjacent joints to the primarily osteoarthritis affected tibiotalar joint.  
 
-**Hobbies:** Hiking, bike running
+**Hobbies:** Hiking, biking, & running
