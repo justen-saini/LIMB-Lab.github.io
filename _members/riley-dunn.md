@@ -1,12 +1,12 @@
 ---
 name: Riley Dunn
-image: images/team_photos/riley_dunn.jpg
+image: images/team_headshots/Riley_Dunn.jpg
 role: Summer Student
 affiliation: Summer Student
 aliases:
   - R. Dunn
   - R Dunn
 links:
-<!--  home-page: https://janesmith.com -->
-<!--  orcid: 0000-0001-8713-9213 -->
+<!--  home-page: -->
+<!--  orcid:  -->
 ---

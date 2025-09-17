@@ -1,14 +1,14 @@
 ---
 name: Robert Chauvet
-image: images/team_photos/Robert_Chauvet.png
+image: images/team_headshots/Robert_Chauvet.png
 role: PhD Student
 affiliation: PhD Student
 aliases:
   - R. Chauvet
   - R Chauvet
 links:
-<!--  home-page: https://janesmith.com -->
-<!--  orcid: 0000-0001-8713-9213 -->
+<!--  home-page: -->
+<!--  orcid: -->
 ---
 **Previous education:** 
 B.Sc. in Mechanical Engineering  from the University of Alberta (Graduated Spring 2021) MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  

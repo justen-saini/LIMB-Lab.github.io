@@ -1,14 +1,14 @@
 ---
 name: Justen Saini
-image: images/team_photos/Justen_Saini.jpg
+image: images/team_headshots/Justen_Saini.jpg
 role: Masters Student
 affiliation: Masters Student
 aliases:
   - J. Saini
   - J Saini
 links:
-<!--  home-page: https://janesmith.com -->
-<!--  orcid: 0000-0001-8713-9213 -->
+<!--  home-page: -->
+<!--  orcid: -->
 ---
 **Previous Education:** B.Sc. in Mechanical Engineering and a Certificate in Computing from the University of Saskatchewan (Graduated Spring 2023)  
 

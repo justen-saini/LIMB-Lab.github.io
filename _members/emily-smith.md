@@ -1,14 +1,14 @@
 ---
 name: Emily Smith
-image: images/team_photos/emily_smith.jpg
+image: images/team_headshots/Emily_Smith.jpg
 role: PhD Student
 affiliation: PhD Student
 aliases:
   - E. Smith
   - E Smith
 links:
-<!--  home-page: https://janesmith.com -->
-<!--  orcid: 0000-0001-8713-9213 -->
+<!--  home-page:  -->
+<!--  orcid:  -->
 ---
 **Previous education:** 
 BSc Honours in Biomechanics (UCalgary - 2022), MSc in Biomedical Engineering (UCalgary - 2024)  

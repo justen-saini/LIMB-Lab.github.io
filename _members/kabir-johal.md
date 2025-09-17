@@ -7,7 +7,7 @@ aliases:
   - K. Johal
   - K Johal
 links:
-<!--  home-page: https://janesmith.com -->
+<!--  home-page: -->
 ---
 **Education:** 
 BSc in Biomedical Engineering (UCalgary - 2022-present)  
