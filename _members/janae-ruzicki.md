@@ -1,6 +1,6 @@
 ---
 name: Janae Ruzicki
-image: 
+image: images/team_headshots/Janae_Ruzicki.jpg
 role: Research Assistant
 affiliation: Research Assistant
 aliases:
