@@ -1,6 +1,6 @@
 ---
 name: Jessica Ho
-image: 
+image: images/team_headshots/Jessica_Ho.jpg
 role: Masters Student
 affiliation: Masters Student
 aliases:

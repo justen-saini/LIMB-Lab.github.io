@@ -1,8 +1,8 @@
 ---
 name: Ben Lutzko
 image: 
-role: Summer Student
-affiliation: Summer Student
+role: Lab Alumni
+affiliation: Summer Student (2025)
 aliases:
   - B. Lutzko
   - B Lutzko

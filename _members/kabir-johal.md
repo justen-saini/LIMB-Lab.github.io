@@ -2,7 +2,7 @@
 name: Kabir Johal
 image: 
 role: Lab Alumni
-affiliation: Summer Student (2024)
+affiliation: Undergraduate Student (2024-2025)
 aliases:
   - K. Johal
   - K Johal
