@@ -1,6 +1,6 @@
 ---
 name: Samantha Chow
-image: 
+image: images/team_headshots/Samantha_Chow.jpg
 role: Lab Alumni
 affiliation: Summer Student (2025)
 aliases:
