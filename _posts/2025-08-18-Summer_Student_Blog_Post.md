@@ -3,7 +3,7 @@ title: Congratulations to our summer students in the LIMB Lab!
 author: LIMB Lab
 tags:
   - Summer Students
-  - Biomechanics
+  - biomechanics
   - McCaig Institute
 ---
 

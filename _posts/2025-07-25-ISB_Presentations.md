@@ -2,8 +2,8 @@
 title: LIMB Lab Members to Present at ISB 2025 in Sweden
 author: Riley Dunn and Samantha Chow
 tags:
-  - International Society of Biomechanics
-  - Biomechanics
+  - conferences
+  - biomechanics
   - big data
 ---
 
