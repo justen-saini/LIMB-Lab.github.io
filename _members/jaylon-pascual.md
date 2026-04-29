@@ -1,6 +1,6 @@
 ---
 name: Jaylon Pascual
-image: images/team_headshots/Breanna_Schneider.jpg 
+image: images/team_headshots/Jaylon_Pascual.jpg 
 role: Masters Student
 affiliation: Masters Student
 aliases:
