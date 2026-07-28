@@ -11,7 +11,7 @@ links:
 <!--  orcid: -->
 ---
 **Previous education:** 
-B.Sc. in Mechanical Engineering  from the University of Alberta (Graduated Spring 2021) MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  
+B.Sc. in Mechanical Engineering from the University of Alberta (Graduated Spring 2021) MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  
 
 **Title/Current position:** 
 2nd-year PhD. Student in Biomedical Engineering  
