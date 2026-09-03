@@ -2,7 +2,7 @@
 name: Robert Chauvet
 image: images/team_headshots/Robert_Chauvet.jpg
 role: PhD Student
-affiliation: PhD Student
+affiliation: PhD Candidate
 aliases:
   - R. Chauvet
   - R Chauvet
@@ -11,10 +11,10 @@ links:
 <!--  orcid: -->
 ---
 **Previous education:** 
-B.Sc. in Mechanical Engineering from the University of Alberta (Graduated Spring 2021) MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  
+B.Sc. in Mechanical Engineering from the University of Alberta (Graduated Spring 2021), MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  
 
 **Title/Current position:** 
-2nd-year PhD. Student in Biomedical Engineering  
+Ph.D. Candidate in Biomedical Engineering  
 
 **Pronouns:** He/Him/His  
 

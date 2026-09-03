@@ -2,7 +2,7 @@
 name: Emily Smith
 image: images/team_headshots/Emily_Smith.jpg
 role: PhD Student
-affiliation: PhD Student
+affiliation: PhD Candidate
 aliases:
   - E. Smith
   - E Smith

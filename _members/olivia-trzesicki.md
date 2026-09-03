@@ -2,7 +2,7 @@
 name: Olivia Trzesicki
 image: images/team_headshots/Olivia_Trzesicki.jpg
 role: Honours Student
-affiliation: Honours Student
+affiliation: BME Thesis Student
 aliases:
   - O. Trzesicki
   - O Trzesicki

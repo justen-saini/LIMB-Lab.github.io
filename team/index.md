@@ -10,16 +10,16 @@ nav:
 ## Principal Investigator
 {% include list.html data="members" component="portrait" filter="role == 'Principal Investigator'" %}
 
-## Research Assistant
-{% include list.html data="members" component="portrait" filter="role == 'Research Assistant'" %}
+<!-- ## Research Assistant
+{% include list.html data="members" component="portrait" filter="role == 'Research Assistant'" %} -->
 
-## PhD Students
+## PhD Students/Candidates
 {% include list.html data="members" component="portrait" filter="role == 'PhD Student'" %}
 
 ## Masters Students
 {% include list.html data="members" component="portrait" filter="role == 'Masters Student'" %}
 
-## Honours Students
+## Honours/Thesis Students
 {% include list.html data="members" component="portrait" filter="role == 'Honours Student'" %}
 
 ## Summer Students
