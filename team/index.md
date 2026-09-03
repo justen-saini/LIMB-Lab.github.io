@@ -19,6 +19,9 @@ nav:
 ## Masters Students
 {% include list.html data="members" component="portrait" filter="role == 'Masters Student'" %}
 
+## Honours Students
+{% include list.html data="members" component="portrait" filter="role == 'Honours Student'" %}
+
 ## Summer Students
 {% include list.html data="members" component="portrait" filter="role == 'Summer Student'" %}
 

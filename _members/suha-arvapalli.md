@@ -1,8 +1,8 @@
 ---
 name: Suha Arvapalli
 image: 
-role: Summer Student
-affiliation: Grade 12 Student
+role: Lab Alumni
+affiliation: High School Summer Student (2026)
 aliases:
   - S. Arvapalli
   - S Arvapalli

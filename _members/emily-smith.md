@@ -14,7 +14,7 @@ links:
 BSc Honours in Biomechanics (UCalgary - 2022), MSc in Biomedical Engineering (UCalgary - 2024)  
 
 **Title/Current position:** 
-PhD Student  
+PhD Candidate 
 
 **Pronouns:** She/Her/Hers  
 

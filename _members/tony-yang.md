@@ -1,8 +1,8 @@
 ---
 name: Tony (Ziyu) Yang
 image: 
-role: Summer Student
-affiliation: 
+role: Lab Alumni
+affiliation: Summer Student (2026)
 aliases:
   - T. Yang
   - T Yang
