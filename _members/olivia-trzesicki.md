@@ -7,12 +7,12 @@ aliases:
   - O. Trzesicki
   - O Trzesicki
 links:
-<!--  home-page: -->
+<!--  home-page: --> https://www.linkedin.com/in/olivia-trzesicki/
 <!--  orcid: -->
 ---
 
-**Previous Education**: BSc in Biomedical Engineering (UCalgary - 2022-present)
 **Title/Current Position**: BME Honours Student (Undergraduate Thesis)
+**Previous Education**: BSc in Biomedical Engineering (UCalgary - 2022-present)
 **Pronouns**: She/Her
 **Research**: QAssessing Foot and Ankle Kinematics While Running in Advanced Footwear Technology (Nike Vapourfly 3)
 **Hobbies**: Tennis, skiing, hiking and pickleball

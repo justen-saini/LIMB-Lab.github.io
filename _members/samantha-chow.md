@@ -10,3 +10,7 @@ links:
 <!--  home-page: -->
 <!--  orcid: -->
 ---
+
+**Previous Education**: BSc in Health Sciences (UCalgary - 2024-present)
+**Pronouns**: She/her
+

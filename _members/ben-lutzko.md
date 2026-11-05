@@ -10,11 +10,10 @@ links:
 <!--  home-page: -->
 <!--  orcid: -->
 ---
-**Previous Education:** 
-B.Sc (Honours) in Biomechanics from the University of Calgary
 
-**Current Position:**
-Product Performance Technician at Garmin Canada. 
+**Current Position:** Product Performance Technician at Garmin Canada. 
+
+**Previous Education:** B.Sc (Honours) in Biomechanics from the University of Calgary
 
 **Pronouns:** He/Him
 

@@ -7,16 +7,13 @@ aliases:
   - K. Johal
   - K Johal
 links:
-<!--  home-page: -->
+<!--  home-page: --> https://www.linkedin.com/in/kabir-johal-37b212326/
 ---
-**Education:** 
-BSc in Biomedical Engineering (UCalgary - 2022-present)  
+**Title:** Summer Student (2024)
 
-**Title:** 
-Summer Student (2024)
+**Education:** BSc in Biomedical Engineering (UCalgary - 2022-present)  
 
-**Current Position:**
-Internship at Garmin
+**Current Position:** Internship at Garmin
 
 **Pronouns:** He/Him
 

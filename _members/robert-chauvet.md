@@ -7,14 +7,12 @@ aliases:
   - R. Chauvet
   - R Chauvet
 links:
-<!--  home-page: -->
-<!--  orcid: -->
+<!--  home-page: --> https://www.linkedin.com/in/robert-chauvet-75562a148/
+<!--  orcid: --> https://orcid.org/0009-0001-0601-5815
 ---
-**Previous education:** 
-B.Sc. in Mechanical Engineering from the University of Alberta (Graduated Spring 2021), MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  
+**Title/Current position:**  Ph.D. Candidate in Biomedical Engineering
 
-**Title/Current position:** 
-Ph.D. Candidate in Biomedical Engineering  
+**Previous education:** B.Sc. in Mechanical Engineering from the University of Alberta (Graduated Spring 2021), MSc. in Mechanical Engineering from the University of Alberta (Graduated Summer 2023)  
 
 **Pronouns:** He/Him/His  
 

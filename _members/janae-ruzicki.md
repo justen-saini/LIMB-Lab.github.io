@@ -7,6 +7,11 @@ aliases:
   - J. Ruzicki
   - J Ruzicki
 links:
-<!--  home-page: -->
+<!--  home-page: --> https://www.linkedin.com/in/janae-ruzicki/
 <!--  orcid: -->
 ---
+
+**Title/Current Position**: Product Development Engineer-In-Training at Bells of Steel
+**Previous Education**: B.Sc. in Biomedical Engineering from the University of Calgary (Graduated Spring 2025)
+**Pronouns**: she/her
+**Hobbies**: Running, baking, analyzing weather patterns
