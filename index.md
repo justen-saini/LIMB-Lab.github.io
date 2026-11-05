@@ -5,7 +5,7 @@
 
 The Locomotion and Imaging for Musculoskeletal Biomechanics (LIMB) Lab is located at the University of Calgary's McCaig Institute, run by Dr. Koren Roach. Our research involves investigating how joint biomechanics, physical activity, and kinematics contribute to the onset and progression of musculoskeletal diseases such as osteoarthritis.
 
-A key proponent of the LIMB Laboratory is our state-of-the-art biplanar videoradiography (BVR) system, consisting of two high-speed video camera, two image intensifiers, and two X-ray sources. BVR allows for a precise assessment of three-dimensional bone motion, enabling assessment of dynamic changes in joint function. 
+A key proponent of the LIMB Laboratory is our state-of-the-art **biplane videoradiography (BVR)** system, consisting of two high-speed video camera, two image intensifiers, and two X-ray sources. BVR allows for a precise assessment of three-dimensional bone motion, enabling assessment of dynamic changes in joint function. 
 
 {% include section.html %}
 
