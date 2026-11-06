@@ -5,28 +5,117 @@ nav:
   tooltip: Published works
 ---
 
+<style>
+.research-card {
+    border-left: 5px solid #0056b3;
+    background: #f8f9fa;
+    padding: 25px;
+    margin: 35px 0;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.research-card h2 {
+    margin-top: 0;
+    color: #0056b3;
+}
+
+.research-card em {
+    color: #666;
+}
+
+.research-card video,
+.research-card img {
+    border-radius: 6px;
+}
+
+.research-card p:last-child {
+    margin-bottom: 0;
+}
+</style>
+
 # {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-<p style="text-align: center;">Take a look at what our lab has been working on!</p>
+<p style="text-align: center;">
+Take a look at what our lab has been working on!
+</p>
 
-{% include section.html %}
+<div class="research-card">
 
-## Investigating the effects of ankle osteoarthirtis treatments on biomechanics
-**Robert Chauvet** (McCaig Research Day, 2025)
-{% include figure.html image="images/research_photos/Robert_poster.png" %}
+## Investigating the Effects of Ankle Osteoarthritis Treatments on Biomechanics
 
-{% include section.html %}
+*Robert Chauvet*
 
-## Investigating load bearing carpal biomechanics
-**Justen Saini** (McCaig Research Day, 2025)
-{% include figure.html image="images/research_photos/Justen_poster.png" %}
+This project uses the biplane videoradiography system alongside clinical CT to measure kinematics of the foot and ankle joints. This is used to answer questions related to ankle osteoarthritis and the end-stage surgery (total ankle replacement) associated with it. This work has the potential to answer questions regarding the long term kinematic outcomes of total ankle replacement surgery.
 
-{% include section.html %}
+<br>
 
-## Investigating the biomechanics of ankle-foot orthoses
-**Emily Smith**
+<video autoplay loop muted playsinline width="100%">
+  <source src="/images/research_photos/Ankle_OA.mp4" type="video/mp4">
+</video>
+
+</div>
+
+<div class="research-card">
+
+## Development and Validation of a Quantitative MRI Pipeline for Ankle Tissue Relaxometry
+
+*Breanna Schneider*
+
+This project involves developing and validating an MRI-based workflow to measure the properties of ankle tissues, such as cartilage and tendons. This study will establish imaging protocols for advanced MRI techniques, assess the consistency of these measurements in healthy individuals, and develop image analysis tools. By determining the reliability and repeatability of these techniques in healthy tissue, this work will provide a foundation for future studies investigating musculoskeletal conditions and support efforts to evaluate the usefulness of these properties for the early detection and monitoring of conditions like osteoarthritis.
+
+<br>
+
+{% include figure.html image="images/research_photos/MRI_Relaxometry.jpeg" %}
+
+</div>
+
+<div class="research-card">
+
+## Characterizing In-Vivo Kinematics and Failure Mechanisms of M6-C Cervical Disc Arthroplasty
+
+*Jessica Ho*
+
+Cervical disc arthroplasty is an increasingly common treatment method for degenerative disc disease. The M6-C prosthesis aims to provide more mobility in the neck, but there are increasing cases requiring revision and/or removal. The purpose of this study is to explore potential mechanical changes that may be associated with these increased rates of failure. Participants with the M6-C implant will be imaged using biplane videoradiography (BVR) while executing different neck motions. 2D-3D registration of BVR with computed tomography will be used to determine cervical kinematics at each cervical level. Additionally, if a participant is having the implant removed, they will also undergo BVR prior to removal of the M6-C. The retrieved implant will undergo intact (non-destructive) and destructive analysis. This research has the potential to inform future development of cervical disc prostheses and understanding the long-term outcomes of these designs.
+
+</div>
+
+<div class="research-card">
+
+## Utilizing Biplanar Videoradiography to Understand Osteoarthritis Progression Following ACL Injury
+
+*Justen Saini*
+
+Anterior cruciate ligament (ACL) injuries are at high risk of developing knee osteoarthritis (OA), with a ten-fold increased risk of developing symptomatic OA within 10–20 years of injury. While persistent alterations in knee biomechanics have been hypothesized to contribute to symptom development, the joint-specific changes that lead to this early OA risk remain unclear. This project will utilize biplanar videoradiography, which enables highly accurate measurements of bone motion during dynamic activities, to identify joint-specific biomechanical characteristics associated with OA risk and disease progression.
+
+</div>
+
+<div class="research-card">
+
+## Investigating Load-Bearing Carpal Biomechanics
+
+*Justen Saini*
+
+This study utilizes weight-bearing computed tomography to understand how the carpal bones move in functional load-bearing positions. Individuals with scapholunate interosseous ligament (SLIL) injuries often experience pain in their wrists when performing load-bearing activities such as performing pushups, doing yoga, or during manual labour and sporting activities; however, the etiology behind this pain is poorly understood. Through assessment of carpal biomechanics measurements (e.g. carpal kinematics) and automated three-dimensional carpal alignment measurements (see below), this work aims to understand the movement patterns of the carpal bones, specifically the scaphoid, lunate, and capitate, that contribute to symptoms of SLIL injuries.
+
+<br>
+
+{% include figure.html image="images/research_photos/Carpal_Biomechanics.png" %}
+
+</div>
+
+<div class="research-card">
+
+## Investigating the Biomechanics of Ankle-Foot Orthoses
+
+*Emily Smith*
+
+Project description coming soon!
+
+</div>
 
 {% comment %}
+
 ## All
 
 {% include search-box.html %}
